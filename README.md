@@ -1,6 +1,7 @@
 # MVP
-###这是一个使用mvp模式实现模拟用户登录的简单Demo。(参考的网络资源：Thanks for hongyangAndroid)
-
+###这是一个使用mvp模式实现模拟用户登录的简单Demo。<br>(参考的网络资源：Thanks for hongyangAndroid)
+<br>
+<br>
 __期待共同进步__
 #####@Auther: David
 #####@email ：david.forever.god@gmail.com
@@ -311,7 +312,7 @@ public class MvpActivity extends AppCompatActivity implements LoginView {
 
 
 ========================
-__Remember Me__
+__Remember Me__<br>
 @ Name  : David<br>
 @ email ：david.forever.god@gmail.com<br>
 Learn from yesterday, live for today, hope for tomorrow.<br>
