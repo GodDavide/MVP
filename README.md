@@ -7,8 +7,8 @@ __期待共同进步__
 #####@email ：david.forever.god@gmail.com
 #####Learn from yesterday, live for today, hope for tomorrow.<br>
 
-                                                                                                            
-###正文: <br>
+                                            start                                                                
+###__正文__: <br>
 
 MVP 是从经典的模式MVC演变而来，它们的基本思想有相通的地方：Controller/Presenter负责逻辑的处理，Model提供数据，View负责显示... ...<br>
 
