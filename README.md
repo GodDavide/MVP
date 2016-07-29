@@ -11,6 +11,6 @@ MVP 是从经典的模式MVC演变而来，它们的基本思想有相通的地�
 理论知识不多讲，我也讲不清楚，请直接查看代码或下载后查看；<br>
 
 ###效果图<br>
-![image](https://github.com/GodDavide/MVP/blob/master/pic/LogiSuccess.jpg)
+![image](https://github.com/GodDavide/MVP/blob/master/images/LogiSuccess.jpg)
 
 
