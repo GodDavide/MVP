@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.god.mvp.MvpActivity">
+
+    <EditText
+        android:id="@+id/main_et_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入姓名"
+        android:textColorHint="#505050"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/main_et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/main_et_username"
+        android:layout_marginTop="10dp"
+        android:hint="请输入姓名"
+        android:textColorHint="#505050"
+        android:textSize="20dp" />
+
+    <ProgressBar
+        android:id="@+id/main_progressBar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/align"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/main_et_password"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@id/align"
+        android:onClick="LoginClick"
+        android:text="Login"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/main_et_password"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/align"
+        android:onClick="ClearClick"
+        android:text="Clear" />
+</RelativeLayout>
