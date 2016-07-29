@@ -1,10 +1,9 @@
 # MVP
 ###这是一个使用mvp模式实现模拟用户登录的简单Demo。(参考的网络资源：Thanks for hongyangAndroid)
 
-####@Auther: David<br>
-####@email ：david.forever.god@gmail.com<br>
+####@Auther: David
+####@email ：david.forever.god@gmail.com
 ####Learn from yesterday, live for today, hope for tomorrow.<br>
- <br>
 
 ####正文: <br>
 
@@ -308,6 +307,10 @@ public class MvpActivity extends AppCompatActivity implements LoginView {
 ```
 
 #####step6：下面就可以运行了，正确的用户信息为：<br>username = "David"<br>password = "12345"<br>
+
+####@Auther: David
+####@email ：david.forever.god@gmail.com
+####Learn from yesterday, live for today, hope for tomorrow.<br>
 
 ##Thanks for you!!!<br>
 ##Have a nice day !!!
