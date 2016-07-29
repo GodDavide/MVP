@@ -7,7 +7,8 @@ __期待共同进步__
 #####@email ：david.forever.god@gmail.com
 #####Learn from yesterday, live for today, hope for tomorrow.<br>
 
-                                            start                                                                
+                     start
+
 ###__正文__: <br>
 
 MVP 是从经典的模式MVC演变而来，它们的基本思想有相通的地方：Controller/Presenter负责逻辑的处理，Model提供数据，View负责显示... ...<br>
@@ -310,9 +311,9 @@ public class MvpActivity extends AppCompatActivity implements LoginView {
 ```
 
 #####step6：下面就可以运行了，正确的用户信息为：<br>username = "David"<br>password = "12345"<br>
-                                        end
-                                        
-                                        
+                     end
+
+
 
 ========================
 __Remember Me__
