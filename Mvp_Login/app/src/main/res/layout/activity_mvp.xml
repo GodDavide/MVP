@@ -58,4 +58,5 @@
         android:layout_toRightOf="@id/align"
         android:onClick="ClearClick"
         android:text="Clear" />
+
 </RelativeLayout>
