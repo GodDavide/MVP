@@ -2,7 +2,7 @@
 ###这是一个简单的模拟用户登录的小Demo。(参考的网络资源)
 
 ##Auther David<br>
-######david.forever.god@gmail.com<br>
+#####邮箱：david.forever.god@gmail.com<br>
 
 MVP 是从经典的模式MVC演变而来，它们的基本思想有相通的地方：Controller/Presenter负责逻辑的处理，Model提供数据，View负责显示... ...<br>
 
