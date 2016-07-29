@@ -32,11 +32,13 @@ public class MvpActivity extends AppCompatActivity implements LoginView {
         progressBar = (ProgressBar) findViewById(R.id.main_progressBar);
     }
 
-    public void ClearClick(View view) {
+    //点击登录
+    public void LoginClick(View view) {
         loginPresenter.login();
     }
 
-    public void LoginClick(View view) {
+    //点击清除
+    public void ClearClick(View view) {
         loginPresenter.clear();
     }
 
