@@ -18,7 +18,7 @@ MVP 是从经典的模式MVC演变而来，它们的基本思想有相通的地�
 ###首先看一下文件结构：<br>
 ![image](https://github.com/GodDavide/MVP/blob/master/images/javaPic.jpg)<br>
 
-###代码书写顺序：熟悉了mvp之后，我掌握了一套熟悉顺序，感觉思路较为清晰，不会遗漏某些信息。(仅个人观点，欢迎吐槽~~~)<br>
+###代码书写顺序：熟悉了mvp之后，我掌握了属于自己风格的书写顺序，感觉思路较为清晰，不会遗漏某些信息。(仅个人观点，欢迎吐槽~~~)<br>
 
 #####step1:bean类：<br>
 ```java
@@ -309,10 +309,12 @@ public class MvpActivity extends AppCompatActivity implements LoginView {
 
 #####step6：下面就可以运行了，正确的用户信息为：<br>username = "David"<br>password = "12345"<br>
 
-__Remember Me__
-#####@ Name  : David
-#####@ email ：david.forever.god@gmail.com
-#####Learn from yesterday, live for today, hope for tomorrow.<br>
 
-##Thanks for you!!!<br>
-##Have a nice day !!!
+========================
+__Remember Me__
+@ Name  : David<br>
+@ email ：david.forever.god@gmail.com<br>
+Learn from yesterday, live for today, hope for tomorrow.<br>
+
+###Thanks for you!!!<br>
+###Have a nice day !!!
